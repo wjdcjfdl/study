@@ -1,1 +1,2 @@
-# study
+# study is i make game partymaker web site for me.
+# use spring boot, mysql
